@@ -1,8 +1,6 @@
 February 13th, 2024 User: James Surya Putra
 
-=======================
-Intermediate Kaggle: 6th Course - Artificial Intelligence Ethics
-=======================
+# Intermediate Kaggle: 6th Course - Artificial Intelligence Ethics
 
 DISCLAIMER:
 - All tutorials and exercises are taken, including questions, submissions, hints, and solutions.
